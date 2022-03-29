@@ -1,0 +1,7 @@
+{
+    "neme":"tamrin project",
+    "db": {
+        "address": "mongodb://localhost:27017/tamrindb"
+    },
+    "jwt-key":";dakf:DKLSF:;asdf;kdsajf;:DSKFJ:sa;dfkjkaJ:DKSFJ;dsaf"
+}
